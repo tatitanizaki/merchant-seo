@@ -1,0 +1,1 @@
+addEventListener("fetch",(e=>{e.respondWith(async function(e){return new Response("Hello world from my Cloudflare Worker!",{headers:{"content-type":"text/plain"}})}(e.request))}));

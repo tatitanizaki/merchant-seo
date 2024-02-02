@@ -1,0 +1,5 @@
+name = "merchant-seo-tool"
+main = "dist/main.js"
+account_id = "a227b6dee7757649bf36f744cba7f26c"
+workers_dev = true
+compatibility_date = "2024-02-02"
